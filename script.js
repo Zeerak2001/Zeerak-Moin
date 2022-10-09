@@ -1,4 +1,14 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<script>
 function q2(){
     let name1 ="Zeerak";
     console.log("Hello "  +name1+  " Would you like to learn some python today?");
@@ -498,7 +508,7 @@ function q35(){
 
 q35();
 
-/*function q36_make_shirt(){
+function q36_make_shirt(){
 
     // for Question 36
 
@@ -517,7 +527,7 @@ q35();
 }
 
 q36_make_shirt();
-*/
+
 
 function q38(city, country){
     country = "Pakistan";
@@ -537,7 +547,7 @@ console.log(q39_city_country("Karachi", "Pakistan"));
 console.log(q39_city_country("Dehli", "India"));
 console.log(q39_city_country("Dhaka", "Bangladesh"));
 
-/*function q40_make_album(){
+function q40_make_album(){
 
     let music_album = {};
 
@@ -553,7 +563,6 @@ console.log(q39_city_country("Dhaka", "Bangladesh"));
 }
 
 console.log(q40_make_album());
-*/
 
 
 let magicians = ["Ronaldo", "Neymar", "Bale"];
@@ -600,5 +609,12 @@ function show_magicians(newlist, q42_make_great){
 
 show_magicians(magicians);
 
+<script>
+
    
+
+
+    
+</body>
+</html>
 
